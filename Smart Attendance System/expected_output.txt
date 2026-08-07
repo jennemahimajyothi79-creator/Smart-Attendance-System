@@ -1,0 +1,8 @@
+------------------------------------------
+ Smart Attendance System Simulation
+------------------------------------------
+
+Student ID=25 Valid ID=25 Attendance=1
+Student ID=15 Valid ID=25 Attendance=0
+Student ID=25 Valid ID=25 Attendance=1
+Student ID=30 Valid ID=25 Attendance=0

@@ -1,0 +1,5 @@
+             +-------------------------+
+Student ID -->|                         |
+              | Smart Attendance System |----> Attendance
+Valid ID ---->|                         |
+              +-------------------------+
